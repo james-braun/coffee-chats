@@ -3,34 +3,35 @@ body {
 }
 
 section {
-    max-width: 300px;
+    max-width: 56.25em;
     display: block;
     margin: 2px auto;
 }
 
 a {
     display: inline-block;
-    width: 95px;
+    width: 8.75em;
     text-decoration: none;
     color: black;
     border: solid 1px black;
     text-align: center;
     background-color: #e7e7e7;
     border-radius: 2px;
+    font-size: 2em;
 }
 
 img {
-    margin: 10px auto;
-    width: 320px;
-    height: 235px;
+    margin: 1.875px auto;
+    width: 60em;
+    height: 44.0625em;
     display: block;
 }
 
 #mystory {
-    height: 750px;
-    margin-bottom: 20px;
+    height: 140.625em;
+    margin-bottom: 3.75em;
 }
 
 .style {
-    height: 575px;
+    height: 107.8125em;
 }
