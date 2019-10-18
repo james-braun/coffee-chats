@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(237, 235, 210);
 }
 
 section {
@@ -10,13 +10,13 @@ section {
 
 a {
     display: inline-block;
-    width: 8.75em;
+    width: 9em;
     height: 1.5em;
     text-decoration: none;
     color: black;
     border: solid 1px black;
     text-align: center;
-    background-color: #e7e7e7;
+    background-color: rgb(233, 189, 190);
     border-radius: 6px;
     font-size: 2em;
     padding-top: .5em;
@@ -36,4 +36,9 @@ img {
 
 .style {
     height: 107.8125em;
+}
+
+.purchase {
+    display: block;
+    margin: 0 auto 3em;
 }
